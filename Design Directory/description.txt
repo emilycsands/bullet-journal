@@ -1,0 +1,3 @@
+Project Name: Bullet Journal
+
+Description: My term project will be an interactive personalized bullet journal! Bullet journalling morphs a planner, diary, and calendar all into one cute and artistic journal. My term project, named Bullet Journal (we love original names), will provide a means for individuals to organize their lives through a cute bullet journal. It will allow the user to add calendar, weekly, title, blank, and custom pages to their journal. Furthermore, the user will have the ability to schedule events or have Bullet Journal schedule their events given different parameters they provide. Overall my term project will provide a means for everyone to schedule and organize their days in a cute and practical fashion!
